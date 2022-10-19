@@ -17,7 +17,7 @@
 ![Technology-HTML5](https://img.shields.io/badge/Technology-HTML5-red)
 ![Technology-CSS3](https://img.shields.io/badge/Technology-CSS3-red)
 ![Technology-ReactBootstrap](https://img.shields.io/badge/Technology-ReactBootstrap-red)
-![Technology-React.js](https://img.shields.io/badge/Technology-React-red)
+![Technology-React.js](https://img.shields.io/badge/Technology-React.js-red)
 ![Technology-Next.js](https://img.shields.io/badge/Technology-Next.js-red)
 
 ![DevTool-VS%20Code](https://img.shields.io/badge/DevTool-VS%20Code-blue)
