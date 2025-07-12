@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Front-End Developer | Next.js | Open to Volunteer Projects ::**
+# **Front-End Developer | Next.js ::**
 
 </div>
 
@@ -15,7 +15,6 @@
 ---
 
 ![Technology-Next.js](https://img.shields.io/badge/Technology-Next.js-red)
-
 ![DevTool-VS%20Code](https://img.shields.io/badge/DevTool-VS%20Code-blue)
 
 2025 - Angelo Fantino
